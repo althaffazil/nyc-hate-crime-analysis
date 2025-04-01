@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"county": "New York"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.0479, 40.6829], [-73.9067, 40.7986], [-73.9339, 40.8776],
+          [-74.0163, 40.8776], [-74.0479, 40.6829]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"county": "Kings"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.0421, 40.5704], [-73.8550, 40.6120], [-73.9495, 40.7394],
+          [-74.0419, 40.6872], [-74.0421, 40.5704]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"county": "Queens"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-73.9626, 40.5416], [-73.7002, 40.5954], [-73.7372, 40.8433],
+          [-73.9102, 40.7855], [-73.9626, 40.5416]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"county": "Bronx"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-73.9339, 40.7855], [-73.7654, 40.9155], [-73.8625, 40.9100],
+          [-73.9339, 40.7855]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"county": "Richmond"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.2591, 40.4774], [-74.1448, 40.4981], [-74.1178, 40.5685],
+          [-74.2503, 40.5795], [-74.2591, 40.4774]
+        ]]
+      }
+    }
+  ]
+}
